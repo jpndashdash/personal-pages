@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Policy Analysis, Cornell University
-* M.P.A. in Public Administration, Cornell University
-* Ph.D in Civil Engineering, Northwestern University
+![*](images/cornell.png) B.S. in Policy Analysis, Cornell University  
+![*](images/cornell.png) M.P.A. in Public Administration, Cornell University  
+![*](images/northwestern.png) Ph.D in Civil Engineering, Northwestern University
+
 
 Publications
 ======
