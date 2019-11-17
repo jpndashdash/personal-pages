@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 <ul>
     <li style="list-style-image: url('../images/cornell.png');">B.S. in Policy Analysis, Cornell University</li>
     <li style="list-style-image: url('../images/cornell.png');">M.P.A. in Public Administration, Cornell University</li>
@@ -18,16 +17,14 @@ Education
 </ul>
 
 
-Employment
-======
+## Employment
 <ul>
     <li style="list-style-image: url('../images/camsys.png');">Senior Associate, Cambridge Systematics, Inc.</li>
     <li style="list-style-image: url('../images/gatech.png');">Research Engineer, Georgia Institute of Technology</li>
 </ul>
 
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
