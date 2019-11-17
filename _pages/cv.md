@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitæ"
+title: "Curriculum Vitæ <small><i>(abridged)</i></small>"
 permalink: /cv/
 author_profile: true
 redirect_from:
