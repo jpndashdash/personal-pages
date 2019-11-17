@@ -11,15 +11,20 @@ redirect_from:
 
 Education
 ======
-![*](images/cornell.png) B.S. in Policy Analysis, Cornell University  
-![*](images/cornell.png) M.P.A. in Public Administration, Cornell University  
-![*](images/northwestern.png) Ph.D in Civil Engineering, Northwestern University
-
 <ul>
-    <li style="list-style-image: url('images/cornell.png');">B.S. in Policy Analysis, Cornell University</li>
-    <li style="list-style-image: url('images/cornell.png');">M.P.A. in Public Administration, Cornell University</li>
-    <li style="list-style-image: url('images/northwestern.png');">Ph.D in Civil Engineering, Northwestern University</li>
+    <li style="list-style-image: url('../images/cornell.png');">B.S. in Policy Analysis, Cornell University</li>
+    <li style="list-style-image: url('../images/cornell.png');">M.P.A. in Public Administration, Cornell University</li>
+    <li style="list-style-image: url('../images/northwestern.png');">Ph.D in Civil Engineering, Northwestern University</li>
 </ul>
+
+
+Employment
+======
+<ul>
+    <li style="list-style-image: url('../images/camsys.png');">Senior Associate, Cambridge Systematics, Inc.</li>
+    <li style="list-style-image: url('../images/gatech.png');">Research Engineer, Georgia Institute of Technology</li>
+</ul>
+
 
 Publications
 ======
