@@ -17,13 +17,6 @@ redirect_from:
 </ul>
 
 
-## Current Employment
-<ul>
-    <li style="list-style-image: url('../images/camsys.png');">Senior Associate, Cambridge Systematics, Inc.</li>
-    <li style="list-style-image: url('../images/gatech.png');">Research Engineer, Georgia Institute of Technology</li>
-</ul>
-
-
 ## Selected Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
