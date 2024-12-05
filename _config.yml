@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter jpn
 facebook:
   username               :
   app_id                 :
@@ -83,7 +81,7 @@ author:
   name             : "Jeffrey Newman"
   avatar           : "profile.png"
   bio              : "Transportation Planning Engineer"
-  location         : "Chicago"
+  location         : "La Crescent, MN"
   employer         : #"Cambridge Systematics | Georgia Tech"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2CN3vk8AAAAJ"
@@ -102,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "thisismyonlyline"
+  linkedin         : "wirepaladin"
   orcid            : "https://orcid.org/0000-0001-8844-2927"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jpn"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
